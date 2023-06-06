@@ -9,9 +9,9 @@
 </p>
 <img src= "wire-ipad.png" width="400" >
 <br />
-<video width="640" height="480" controls>
-  <source src="CharacterViewerIOSDemo.mp4" type="video/mp4">
-</video>
+
+[Play demo video](https://user-images.githubusercontent.com/58936686/243777869-eeecda40-722f-4b1d-b660-efb73e81aca9.mp4)
+
 
 ## Features
 
