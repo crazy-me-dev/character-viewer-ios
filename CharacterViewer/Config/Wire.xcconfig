@@ -1,0 +1,13 @@
+//
+//  Simpsons.xcconfig
+//  CharacterViewer
+//
+//  Created by Daniel Song on 6/5/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL = http:/$()/api.duckduckgo.com/?q=the+wire+characters&format=json
+APP_BUNDLE_ID = com.sample.wireviewer
+APP_NAME = The Wire Character Viewer
